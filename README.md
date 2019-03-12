@@ -29,6 +29,7 @@ This is a simple class that can be used to convert a RFC 822 compliant datetime 
 <br>
 <b>What We Are Trying To Solve</b>
 <br>
+<br>
 RFC 822 compliant dates come in a wide variety of formats.  For example, all of the following are valid:
 <br>
 <br>
