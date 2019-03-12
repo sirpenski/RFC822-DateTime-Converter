@@ -110,7 +110,7 @@ workings of the class.
 Have Fun. (and rename the namespaces)
 
 
-
+Contact me at <a href="http://sirpenski.com" target="_blank">http://sirpenski.com</a> if you find it necessary.
 
 
 
