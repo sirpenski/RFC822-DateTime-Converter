@@ -1,4 +1,4 @@
-# RFC822DateTImeConverter
+# RFC822DateTimeConverter
 Converts an RFC 822 DateTime String To A C# DateTime
 
 <b>Overview</b>
@@ -26,6 +26,7 @@ This is a simple class that can be used to convert a RFC 822 compliant datetime 
   }
   catch(Exception) {}
   
-
-
 </pre>
+
+
+
